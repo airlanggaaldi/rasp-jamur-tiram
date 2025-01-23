@@ -1,0 +1,11 @@
+[33mcommit 44526513dcf4c6578d7aef69f16928072051909c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: LAPTOP-QSI6UT5D\ASUS <airlanggaaldipratama02@gmail.com>
+Date:   Mon Jan 6 14:04:19 2025 +0700
+
+    first
+
+[33mcommit a2a82ba26dccaa43896b3e3c37279ba372e8e6e2[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: LAPTOP-QSI6UT5D\ASUS <airlanggaaldipratama02@gmail.com>
+Date:   Mon Jan 6 14:03:49 2025 +0700
+
+    first commit
